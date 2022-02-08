@@ -1,2 +1,5 @@
 # игнорирование системных файлов
-.git\
+.DS_Store
+Thumbs.db
+.idea\
+\.idea\
